@@ -6,6 +6,8 @@ const getPokemonById = async( id ) => {
     // const resp = await fetch( url );
     // const pokemon = await resp.json();
 
+
+    
     return pokemon.name;
     // return fetch( url )
     //     .then(( response ) => response.json())
