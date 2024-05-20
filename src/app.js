@@ -21,3 +21,7 @@ getPokemonById(5)
  .then(( pokemon ) => console.log({ pokemon })) 
  .catch((err) => console.log('Hay un error'))
  .finally(() => console.log('finalmente'))
+
+
+ //token de acceso
+ //publicas
